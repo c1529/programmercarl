@@ -8,3 +8,5 @@
 [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)  
 每日一题(2024.4.2):  
 [长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/description/)  
+每日一题(2024.4.3):  
+[移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/description/)
